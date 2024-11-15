@@ -1,4 +1,4 @@
-import AC.syntax
+import AC.Syntax
 
 namespace AC
 

@@ -1,5 +1,7 @@
 import AC.Syntax
 
+open Formula
+
 #check Fml.conj (Fml.var 1) (Fml.var 1)
 #eval Fml.conj (Fml.var 1) (Fml.var 1)
 
